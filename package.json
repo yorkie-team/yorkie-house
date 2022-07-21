@@ -71,7 +71,8 @@
             "webhook",
             "updatable",
             "protobuf",
-            "grpc"
+            "grpc",
+            "signup"
           ],
           "skipIfMatch": [
             "TODO\\(.+\\):",
